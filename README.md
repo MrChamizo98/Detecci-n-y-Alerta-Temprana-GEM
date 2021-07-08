@@ -7,8 +7,8 @@ Máster Ciberseguridad - Universidad Pontificia Comillas (ICAI)
 ## Código
 Todo el código se puede ver en los siguientes enlaces:
 1. [Proyecto AlertaTemprana](https://bitbucket.org/mrchamizo/alertatemprana2021/src/master/): contiene el proyecto CETA.
-2. [Correlación datos](https://github.com/MrChamizo98/Clusterizado): contiene el código para el desarrollo de la correlación en CETA.
-3. [Clusterizado datos](https://github.com/MrChamizo98/Correlation): contiene el código para el desarrollo del clusterizado en CETA.
+2. [Correlación datos](https://github.com/MrChamizo98/Correlation): contiene el código para el desarrollo de la correlación en CETA.
+3. [Clusterizado datos](https://github.com/MrChamizo98/Clusterizado): contiene el código para el desarrollo del clusterizado en CETA.
 
 ## Resumen 
 El objetivo principal del trabajo es la creación de una plataforma que incorpore las principales herramientas de monitorización de una organización, que junto con la conexión a sondas externas que proporcionen una visión de los activos de esta misma desde el exterior se convierta en la herramienta central para gestionar la seguirdad de la entidad. 

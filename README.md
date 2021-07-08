@@ -6,7 +6,7 @@ Máster Ciberseguridad - Universidad Pontificia Comillas (ICAI)
 
 ## Código
 Todo el código se puede ver en los siguientes enlaces:
-1. [Proyecto AlertaTemprana](https://github.com/MrChamizo98/tfgfutbol): contiene el proyecto CETA.
+1. [Proyecto AlertaTemprana](https://github.com/MrChamizo98/AlertaTemprana): contiene el proyecto CETA.
 2. [Correlación datos](https://github.com/MrChamizo98/Datos-TFG-GonzaloHerrerosDiezhandino): contiene el código para el desarrollo de la correlación en CETA.
 3. [Clusterizado datos](https://github.com/MrChamizo98/Datos-TFG-GonzaloHerrerosDiezhandino): contiene el código para el desarrollo del clusterizado en CETA.
 

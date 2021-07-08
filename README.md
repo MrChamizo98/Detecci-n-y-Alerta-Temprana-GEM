@@ -1,1 +1,1 @@
-# Detecci-n-y-Alerta-Temprana-GEM
+# Deteccion-y-Alerta-Temprana-GEM
